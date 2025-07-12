@@ -33,7 +33,7 @@ Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain
 
 ## 📫 Contact
 
-- Email: **nabil.research@gmail.com**
+- Email: **sajjadnabil27@gmail.com**
 
 ---
 
