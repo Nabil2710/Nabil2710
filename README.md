@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Nabil Sajjad
 
 Curious and independent researcher focused on **Artificial Intelligence**, **Robotics**, and **Brain–Computer Interfaces**.
