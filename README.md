@@ -1,42 +1,41 @@
-# Nabil Sajjad
+# 👋 Nabil Sajjad
 
-Curious and independent researcher focused on **Artificial Intelligence**, **Robotics**, and **Brain–Computer Interfaces**.
+🧠 Curious and independent researcher focused on **Artificial Intelligence**, **Robotics**, and **Brain–Computer Interfaces**.
 
 Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain-controlled robotic system designed to restore agency for individuals with motor impairments.
 
 ---
 
-## Research Interests
+## 🔬 Research Interests
 
-- Brain–Computer Interfaces (EEG signal interpretation, cognitive control)
-- Emotion-Adaptive Robotics & Human–Machine Symbiosis
-- Artificial Intelligence & Neural Networks
-- Neurotechnology for Assistive Applications
-- Applied Mathematics & Control Systems
+- 🧠 Brain–Computer Interfaces (EEG signal interpretation, cognitive control)
+- 🤖 Emotion-Adaptive Robotics & Human–Machine Symbiosis 
+- 🧮 Artificial Intelligence & Neural Networks
+- ♿ Neurotechnology for Assistive Applications
+- 📐 Applied Mathematics & Control Systems
 
 ---
 
-## Projects
+## 🛠 Projects
 
 - **EXOCORTEX**  
-  Designing a low-cost, emotion-aware robotic arm controlled by EEG signals.  
+  A low-cost, emotion-aware robotic arm controlled by EEG signals.  
   Focus: neural signal simulation, real-time emotion mapping, robotic actuation modeling.
 
 ---
 
-## Portfolio
+## 🌐 Portfolio
 
 - Website: [nabil2710.github.io](https://nabil2710.github.io) *(coming soon)*  
 - GitHub: [github.com/Nabil2710](https://github.com/Nabil2710)
 
 ---
 
-## Contact
+## 📫 Contact
 
 - Email: **nabil.research@gmail.com**
 
 ---
 
-> *Engineering cognition, building possibility.*
+> *🧬 Engineering cognition, building possibility.*
 
-  
