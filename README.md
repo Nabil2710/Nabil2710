@@ -1,4 +1,4 @@
-
+````markdown name=README.md
 # Nabil Sajjad
 
 Curious and independent researcher focused on **Artificial Intelligence**, **Robotics**, and **Brain–Computer Interfaces**.
@@ -40,3 +40,5 @@ Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain
 
 > *Engineering cognition, building possibility.*
 ````
+
+  
