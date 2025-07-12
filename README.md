@@ -1,8 +1,10 @@
 # 👋 Nabil Sajjad
 
- A curious 15-year-old high school student (10th Grader) who desires change, independently researching advanced **Artificial Intelligence**, **Robotics**, and **Brain–Computer Interfaces**.
+🧠 A 15-year-old high school student (Class 10), independently researching advanced **Artificial Intelligence**, **Robotics**, and **Brain–Computer Interfaces**.
 
-Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain-controlled robotic system designed to restore agency for individuals with motor impairments.
+Currently developing the research foundation for **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain-controlled system aimed at restoring agency for individuals with motor impairments.
+
+This initiative is not just academic; it serves as the groundwork for a future assistive-tech startup focused on empowering the differently-abled through affordable, intelligent neuro-robotics.
 
 ---
 
@@ -16,11 +18,11 @@ Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain
 
 ---
 
-## 🛠 Projects
+## 📄 Independent Research
 
-- **EXOCORTEX**  
-  A low-cost, emotion-aware robotic arm controlled by EEG signals.  
-  Focus: neural signal simulation, real-time emotion mapping, robotic actuation modeling.
+- **EXOCORTEX** *(in conceptual and research phase)*  
+  A long-term initiative exploring EEG-based robotic control, affective computing, and neuroadaptive interfaces.  
+  Focused on publishing original research papers that lay the groundwork for a future startup in emotion-adaptive, brain-controlled assistive robotics.
 
 ---
 
@@ -38,5 +40,9 @@ Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain
 ---
 
 > *🧬 Engineering cognition, building possibility.*
+
+
+
+
 
 
