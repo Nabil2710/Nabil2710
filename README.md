@@ -1,6 +1,6 @@
 # 👋 Nabil Sajjad
 
-🧠 Curious and independent researcher focused on **Artificial Intelligence**, **Robotics**, and **Brain–Computer Interfaces**.
+🧠 A 15-year-old high school student (Class 10), independently researching advanced **Artificial Intelligence**, **Robotics**, and **Brain–Computer Interfaces**.
 
 Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain-controlled robotic system designed to restore agency for individuals with motor impairments.
 
@@ -38,4 +38,5 @@ Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain
 ---
 
 > *🧬 Engineering cognition, building possibility.*
+
 
