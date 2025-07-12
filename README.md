@@ -38,6 +38,5 @@ Currently developing **EXOCORTEX** — a meta-cognitive, emotion-adaptive, brain
 ---
 
 > *Engineering cognition, building possibility.*
-````
 
   
