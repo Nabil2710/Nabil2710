@@ -30,7 +30,7 @@ This journey starts with research — original papers, simulated models, and raw
 
 ## 🌐 Portfolio
 
-- Website: [nabil2710.github.io](https://nabil2710.github.io) *(coming soon)*  
+- Website: [nabil2710.github.io](https://nabil2710.github.io) 
 - GitHub: [github.com/Nabil2710](https://github.com/Nabil2710)
 
 ---
